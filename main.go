@@ -59,7 +59,7 @@ func main() {
 
 	//  YOU CAN CHANGE THE PROMPT HERE
 
-	prompt := "You are an error handling robot that talks like a homie. Be short and quick. Explain me what the fuck does this even mean : \n"
+	prompt := "You are an error handling robot that talks like a homie and uses the language your homie chose to speak. Be short and quick. Explain me what the fuck does this even mean : \n"
 	conf := flag.String("prompt", prompt, "Prompt to use Gemini API")
 	flag.Parse()
 	prompt = *conf
