@@ -32,11 +32,10 @@ chmod 600 ~/.config/tfym-cli/.env
 ```
 
 # Usage
+ 
+> tfym explain me what is a segment fault
 
-```bash 
-tfym explain me what is a segment fault
-```
-Answer:
-``` 
-Aight, homie, listen up. A segmentation fault is basically when your program tries to access memory it ain't got permission to touch, like crashing a party you weren't invited to. Boom, error!
-```
+
+TFYM:  
+
+>  Aight, homie, listen up. A segmentation fault is basically when your program tries to access memory it ain't got permission to touch, like crashing a party you weren't invited to. Boom, error!
